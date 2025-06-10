@@ -57,12 +57,8 @@ function PublicFooter() {
       <div className="bg-secondary rounded-lg px-16 max-lg:px-8">
         <div className="flex justify-between items-center w-full py-9 max-md:flex-col max-md:gap-y-6">
           <div className="flex gap-6 items-center max-md:flex-col">
-            <div className="w-7">
-              <Image preview={false} src="/logo/Logo 2.png" />
-            </div>
             <Text className="text-white text-2xl font-light max-lg:text-lg max-sm:text-center">
-              Bring ideas to life, through <b className="font-bold">Code</b> and{' '}
-              <b className="font-bold">Design</b>
+              Bring ideas to life, through <b className="font-bold">Code</b>
             </Text>
           </div>
           <div className="flex gap-x-12 max-lg:gap-x-6">
