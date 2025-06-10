@@ -218,7 +218,7 @@ const dataProfile: ProfileDataType = {
               iconPath: '/logo/beyond.png',
               name: 'Beyond Run',
               startYear: 'Nov 2022',
-              endYear: 'Jul 2023',
+              endYear: 'Jul 2024',
               description:
                 'Beyond run is a website for virtual and offline running events. Using NodeJs, ExpressJs  and Typescript to develop the website.',
             },
